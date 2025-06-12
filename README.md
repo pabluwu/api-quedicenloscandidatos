@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo facilitar la toma de decisiones informada de la ciudadanía durante procesos electorales. Para lograrlo, permite a los usuarios consultar a una inteligencia artificial sobre las propuestas y posturas de cada candidato en temas específicos de su interés.
